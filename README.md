@@ -69,4 +69,13 @@ sweet-bloom-bakery/
 └── README.md
 ```
 
-## 🚀 F
+🚀 Future Improvements
+Online order form
+Product search and filtering
+Real-time product availability
+Online payment integration
+Admin dashboard for managing products and orders
+Customer reviews
+📄 Project Purpose
+
+This project was created as a prototype for the Terralogic 24-Hour AI Challenge to demonstrate problem identification, AI-assisted development, execution, and business thinking.
